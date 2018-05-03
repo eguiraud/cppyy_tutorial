@@ -1,0 +1,4 @@
+name: cppyy
+dependencies:
+  - pip:
+    - cppyy
